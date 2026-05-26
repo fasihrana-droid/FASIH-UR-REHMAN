@@ -1,6 +1,0 @@
-{
-  "name": "Attendance Record Maker",
-  "description": "Create and manage multiple groups, add members, record interactive daily attendance sessions, view attendance stats, and export records as CSV.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
